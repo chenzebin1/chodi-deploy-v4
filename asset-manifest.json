@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/chodi-deploy-v4/static/css/main.a2253c51.chunk.css",
+    "main.js": "/chodi-deploy-v4/static/js/main.790db44e.chunk.js",
+    "main.js.map": "/chodi-deploy-v4/static/js/main.790db44e.chunk.js.map",
+    "runtime-main.js": "/chodi-deploy-v4/static/js/runtime-main.12452e5e.js",
+    "runtime-main.js.map": "/chodi-deploy-v4/static/js/runtime-main.12452e5e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/chodi-deploy-v4/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5532564c.chunk.js": "/chodi-deploy-v4/static/js/2.5532564c.chunk.js",
+    "static/js/2.5532564c.chunk.js.map": "/chodi-deploy-v4/static/js/2.5532564c.chunk.js.map",
+    "static/js/3.7ba7904b.chunk.js": "/chodi-deploy-v4/static/js/3.7ba7904b.chunk.js",
+    "static/js/3.7ba7904b.chunk.js.map": "/chodi-deploy-v4/static/js/3.7ba7904b.chunk.js.map",
+    "index.html": "/chodi-deploy-v4/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/chodi-deploy-v4/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a2253c51.chunk.css.map": "/chodi-deploy-v4/static/css/main.a2253c51.chunk.css.map",
+    "static/js/2.5532564c.chunk.js.LICENSE.txt": "/chodi-deploy-v4/static/js/2.5532564c.chunk.js.LICENSE.txt",
+    "static/media/UnitedHopeForAnimals.71c72bc2.jpg": "/chodi-deploy-v4/static/media/UnitedHopeForAnimals.71c72bc2.jpg",
+    "static/media/beachday.772a9104.jpg": "/chodi-deploy-v4/static/media/beachday.772a9104.jpg",
+    "static/media/dogpark.9ddcdbc8.jpg": "/chodi-deploy-v4/static/media/dogpark.9ddcdbc8.jpg",
+    "static/media/doubleArrow.008cd8b1.png": "/chodi-deploy-v4/static/media/doubleArrow.008cd8b1.png",
+    "static/media/doubleArrowRight.4625692c.png": "/chodi-deploy-v4/static/media/doubleArrowRight.4625692c.png",
+    "static/media/give.98eb38b0.jpg": "/chodi-deploy-v4/static/media/give.98eb38b0.jpg",
+    "static/media/hamburger.f9a826a5.jpeg": "/chodi-deploy-v4/static/media/hamburger.f9a826a5.jpeg",
+    "static/media/kevinnguyen.cd01acb5.jpg": "/chodi-deploy-v4/static/media/kevinnguyen.cd01acb5.jpg",
+    "static/media/logo.50ed6966.png": "/chodi-deploy-v4/static/media/logo.50ed6966.png",
+    "static/media/logout.2304bfb7.jpeg": "/chodi-deploy-v4/static/media/logout.2304bfb7.jpeg",
+    "static/media/purina.8dbd6212.png": "/chodi-deploy-v4/static/media/purina.8dbd6212.png",
+    "static/media/zomlogo.d3e9c4eb.png": "/chodi-deploy-v4/static/media/zomlogo.d3e9c4eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12452e5e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5532564c.chunk.js",
+    "static/css/main.a2253c51.chunk.css",
+    "static/js/main.790db44e.chunk.js"
+  ]
+}
